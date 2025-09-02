@@ -1,0 +1,21 @@
+# Ah 7th Variables Practice
+Arthur=12
+print(Arthur)
+number_1=5
+print(number_1)
+number_2=325
+print(number_2)
+cereal=1
+print(cereal)
+blue=35
+print(blue)
+ucas=4
+print(ucas)
+year=2025
+print(year)
+brown=9
+print(brown)
+age=15
+print(age)
+science=7
+print(science)
