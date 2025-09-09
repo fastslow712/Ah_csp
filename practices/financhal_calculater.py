@@ -13,9 +13,9 @@ rent_percent=rent/income*100
 utilities_percent=utilities_cost/income*100
 groceries_percent=groceries_cost/income*100
 transport_percent=transport_cost/income*100
-spening_money=income-cost
+spening_money=income-cost-savings
 
-print(savings)
+print(savings,"in savings")
 print(rent_percent,"% of income")
 print(utilities_percent,"% of income")
 print(groceries_percent,"% of income")
