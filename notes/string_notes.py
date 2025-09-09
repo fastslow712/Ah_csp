@@ -28,7 +28,7 @@ print(sentence[20:25])
 #find()
 #findes a number or word in a vareable
 #concatenate (add)
-#puts to strings together
+#puts to strings together using the + simble
 #upper()
 #makes all leaters upper case
 #lower()
