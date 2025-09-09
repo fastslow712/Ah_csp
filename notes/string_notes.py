@@ -35,3 +35,5 @@ print(sentence.strip())
 #removes extra spaces befor and after a input
 
 #sanitization and stupid proofing
+
+#debuging is fixing code
