@@ -11,13 +11,13 @@ print("welcome to my program",full_name + "!")
 print(sentence.strip())
 
 #Why do we have strings?
-#
+#so we can do things
 
 #How do stupid proofing and sanitization relate to each other?
 #
 
 #What is debugging?
-#
+#removing bugs
 
 #How do you debug the different types of errors?
 #
@@ -28,8 +28,8 @@ print(sentence.strip())
 #concatenate (add)
 #
 #upper()
-#
+#makes all leaters upper case
 #lower()
-#
+#makes all leaters loercase
 #strip()
-#
+#removes extra spaces befor and after a input
