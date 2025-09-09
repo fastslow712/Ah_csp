@@ -33,3 +33,5 @@ print(sentence.strip())
 #makes all leaters loercase
 #strip()
 #removes extra spaces befor and after a input
+
+#sanitization and stupid proofing
