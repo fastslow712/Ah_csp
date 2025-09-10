@@ -1,4 +1,6 @@
 #Ah 7th name decore
 
 name=input("what is your name\n").strip().title()
-print("(:(:(:", name, ":):):)")
+decor1="(:(:(:"
+decor2=":):):)"
+print(decor1 + name + decor2)
