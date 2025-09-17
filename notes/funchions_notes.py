@@ -27,7 +27,7 @@ print("this is not in my funchion")
 #make a funchion
 
 #What return statements are
-#
+#it gets a varable out of a funcfion
 import random
 
 def roll(mod):
