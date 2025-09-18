@@ -20,5 +20,5 @@ income = cost
 
 cost = income + transport_cost + groceries_cost + utilities_cost + rent_cost
 savings=income*1/10
-calculate_persent(type_of_cost)
+def calculate_persent(type_of_cost)
     percent=/income*100
