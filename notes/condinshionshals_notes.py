@@ -1,11 +1,11 @@
 # ah 7th condishonals notes
 
-#homework_done = input("is your homework done\n").strip().lower()
+homework_done = input("is your homework done\n").strip().lower()
 
-#if homework_done =="yes":
-#    print("yes you can go")
-#else:
-#    print("then go do your homwork")
+if homework_done =="yes":
+    print("yes you can go")
+else:
+    print("then go do your homwork")
 
 #What puts something inside of the “if” statement?
 #if it is indented it is in the condishinal
@@ -21,11 +21,11 @@
 
 #What kind of statement do you use if you have more than 2 needed outcomes?
 #elif it is shot for else if it will onley run if it is true and the if statmint is fales
-grade =100
+grade = 100
 
 if grade >= 90:
     print(f"you have {grade}% that is an A!")
-elif grade >0 80:
+elif grade > 80:
     print(f"you have {grade}% that is a B!")
 elif grade >= 70:
     print(f"you have {grade}% that is a c!")
