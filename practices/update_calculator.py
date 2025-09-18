@@ -1,7 +1,7 @@
 # ah 7th update calculator
 
 def money(type):
-    cost = int(input("what is your, {type}\n"))
+    cost = int(input(f"what is your, {type}\n"))
     return cost
 money("rent")
 rent_cost = cost
@@ -20,5 +20,6 @@ income = cost
 
 cost = income + transport_cost + groceries_cost + utilities_cost + rent_cost
 savings=income*1/10
-def calculate_persent(type_of_cost)
-    percent=/income*100
+def calculate_persent(type_of_cost):
+    percent= type_of_cost/income*100
+    return percent
