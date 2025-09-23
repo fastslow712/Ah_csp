@@ -65,4 +65,4 @@ else:
 #What does a nested conditional statement do?
 #it is a condishnal that is in a condishionl and onley runs if the first condishional is true
 
-#you put the most likley out com in the else
+#you put the most likley out com in the else len=find leangth
