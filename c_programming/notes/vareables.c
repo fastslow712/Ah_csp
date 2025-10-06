@@ -6,11 +6,14 @@ int main(void){
     float pi = 3.14;
     double long_pi = 3.1415926358;
     char letter_grade;
-    char name[] = "Arthur";
+    char name[50];
     //user input
-    printf("what is your grade percentige as a whole number: ");
-    scanf("%d", &grade);
+    printf("what is your name\n");
+    fgets(name, sizeof(name), stdin);
 
+    printf("what is your grade percentige as a whole number: ");
+    scanf(" %d", &grade);
+    
     printf("what is your letter grade: ");
     scanf(" %c", &letter_grade);
 
@@ -19,7 +22,7 @@ int main(void){
 
     return 0;
 }
-//intigers=int hole numbers 4bytes %d floats=float desimal number 4butes %f double=double beater float 8bytes %lf caricter=char one caricter 1bytes %c multipal caricters are a list %s
+//intigers=int hole numbers 4bytes %d floats=float desimal number 4butes %f double=double beater float 8bytes %lf caricter=char one caricter 1bytes %c multipal caricters are a list %s fgits
 
 //What is the main difference between declaring variables in Python and C?
 //you hafto spesify the vareable type in c and you end all statments in ;
@@ -34,7 +37,7 @@ int main(void){
 // int age = 25
 
 //What is the difference between printf() and scanf() functions in C?
-//print is an output scan asines a value to a vareable basted on a user input
+//print is an output scan asines a value to a vareable basted on a user input 
 
 //How do you add comments in C? 
 // you use //
