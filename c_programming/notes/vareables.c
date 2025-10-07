@@ -19,13 +19,14 @@ int main(void){
 
     printf("%s did it!\n", name);
     printf("You have a %d, in the class that is an %c\n", grade, letter_grade);
+    printf("%f", pi);
 
     return 0;
 }
-//intigers=int hole numbers 4bytes %d floats=float desimal number 4butes %f double=double beater float 8bytes %lf caricter=char one caricter 1bytes %c multipal caricters are a list %s fgits
+//intigers=int hole numbers 4bytes %d floats=float desimal number 4butes %f double=double beater float 8bytes %lf caricter=char one caricter 1bytes %c multipal caricters are a list %s. fgits
 
 //What is the main difference between declaring variables in Python and C?
-//you hafto spesify the vareable type in c and you end all statments in ;
+//you have to spesify the vareable type in c and you end all statments in ;
 
 //In C, what is the purpose of specifying a data type when declaring a variable?
 //to save space 
