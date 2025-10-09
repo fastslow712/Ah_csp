@@ -3,6 +3,7 @@
     "files.associations": {
         "Expressions_Practice.C": "cpp",
         "typeinfo": "c",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "First_Program.C": "cpp"
     }
 }
