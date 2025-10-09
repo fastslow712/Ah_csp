@@ -1,4 +1,4 @@
-// ah 7th financhal calculater First Program C
+// ah 7th first program First Program C
 #include <stdio.h>
 
 int main(void){
