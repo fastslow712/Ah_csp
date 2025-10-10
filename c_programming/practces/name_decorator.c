@@ -1,4 +1,4 @@
-// ah 7th name decor First Program C
+// ah 7th name decor 
 #include <stdio.h>
 #include <string.h>
 
