@@ -8,7 +8,7 @@ int main(void){
     char decor2[] = ":):):)";
     char decorated_name[50];
     printf("what is your name?\n");
-    fgets(name, sizeof(name), stdin);
+    scanf(" %s", &name);
     strcat(decorated_name, decor1);
     strcat(decorated_name, name);
     strcat(decorated_name, decor2);
