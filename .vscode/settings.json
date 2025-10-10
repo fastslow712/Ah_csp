@@ -4,6 +4,8 @@
         "Expressions_Practice.C": "cpp",
         "typeinfo": "c",
         "stdio.h": "c",
-        "First_Program.C": "cpp"
+        "First_Program.C": "cpp",
+        "Conditionals_Notes.C": "cpp",
+        "string.h": "c"
     }
 }
