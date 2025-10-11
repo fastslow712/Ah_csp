@@ -1,4 +1,4 @@
-// ah 7th Silly Sentences 
+// ah 7th Time of Day
 #include <stdio.h>
 int main(){
     int time;
