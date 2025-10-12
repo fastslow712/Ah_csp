@@ -2,6 +2,8 @@
     "C_Cpp.default.compilerPath": "C:/msys64/ucrt64/bin/gcc.exe",
     "files.associations": {
         "Silly_Sentences.C": "cpp",
-        "Conditionals_Notes.C": "cpp"
+        "Conditionals_Notes.C": "cpp",
+        "Expressions_Practice.C": "cpp",
+        "First_Program.C": "cpp"
     }
 }
