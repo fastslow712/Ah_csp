@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 int main(void){ 
-    float age;
+    int age;
     printf("give me your age: \n");
-    scanf("%f", age);
+    scanf("%d", &age);
     if (age >= 18){
         printf("you can vote!\n");
     }else if (age >= 16){
