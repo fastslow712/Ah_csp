@@ -5,6 +5,7 @@
         "Conditionals_Notes.C": "cpp",
         "Expressions_Practice.C": "cpp",
         "First_Program.C": "cpp",
-        "Loops_Notes.C": "cpp"
+        "Loops_Notes.C": "cpp",
+        "stdio.h": "c"
     }
 }
