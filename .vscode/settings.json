@@ -6,6 +6,7 @@
         "Expressions_Practice.C": "cpp",
         "First_Program.C": "cpp",
         "Loops_Notes.C": "cpp",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "Functions_Notes.C": "cpp"
     }
 }
