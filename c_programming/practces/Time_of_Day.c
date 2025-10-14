@@ -13,5 +13,6 @@ int main(){
     }else{
         printf("GOOD NIGHT! GO TO BED!\n");
     }
+
     return 0;
 }

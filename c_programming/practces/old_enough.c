@@ -3,7 +3,7 @@
 
 int main(void){ 
     int age;
-    printf("give me your age: \n");
+    printf("tell me your age: \n");
     scanf("%d", &age);
     if (age >= 18){
         printf("you can vote!\n");
