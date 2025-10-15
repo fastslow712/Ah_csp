@@ -27,11 +27,13 @@ int main(void){
     int utilities_percent = find_percent(utilities_cost, income);
     int groceries_percent = find_percent(groceries_cost, income);
     int transport_percent = find_percent(transport_cost, income);
+    int spening_money=income-cost-savings;
     printf("%d$ in savings\n", savings);
     print_results("rent", rent_cost, rent_percent);
     print_results("utilities", utilities_cost, utilities_percent);
     print_results("groceries", groceries_cost, groceries_percent);
     print_results("transport", transport_cost, transport_percent);
+    printf("you have %d$ left to spend\n", spening_money);
 
     return 0;
 }
