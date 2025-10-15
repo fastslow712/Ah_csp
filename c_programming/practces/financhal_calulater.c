@@ -12,13 +12,13 @@ int main(void){
     float income;
 
     printf("what is your rent cost per month\n");
-    scanf("%d", &rent_cost);;
+    scanf("%d", &rent_cost);
     printf("what is your utilities cost per month\n");
-    scanf(" %d", &utilities_cost);;
+    scanf(" %d", &utilities_cost);
     printf("what is your groceries_cost per month\n");
-    scanf(" %d", &groceries_cost);;
+    scanf(" %d", &groceries_cost);
     printf("what is your transport_cost per month\n");
-    scanf(" %d", &transport_cost);;
+    scanf(" %d", &transport_cost);
     printf("what is your income per month\n");
     scanf(" %f", &income);
 
