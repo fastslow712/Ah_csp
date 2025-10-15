@@ -34,7 +34,7 @@ int main(void){
 }
 
 //What a function is
-//a set of code that runs as many 
+//a set of code that runs as many times as it is caled
 //Why we use functions
 //so whe don't nead to write the same thing over and over again
 //How to write a function in C
