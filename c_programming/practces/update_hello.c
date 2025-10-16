@@ -6,11 +6,11 @@ void print_name(char* name){
 }
 
 int main(void){
-    print_name("name_1");
-    print_name("name_2");
-    print_name("name_3");
-    print_name("name_4");
-    print_name("name_5");
+    print_name("Victoria");
+    print_name("Conrad");
+    print_name("Rosie");
+    print_name("Ella");
+    print_name("Clara");
 
     return 0;
 }
